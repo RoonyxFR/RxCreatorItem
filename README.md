@@ -11,4 +11,4 @@ Dirigez vous dans le `shared.lua` et adaptez le `ConfigItem.Limit` en fonction d
 
 ## Discord
 
-[Discord](https://disocrd.gg/JnZjSZj)
+[Discord]([https://disocrd.gg/JnZjSZj])
